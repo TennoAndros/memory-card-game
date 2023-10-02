@@ -4,7 +4,7 @@ Welcome to the Memory Game! This is a simple React-based memory game where playe
 
 ## Link to Deployed Version
 
-You can access the deployed version of Memory Game [here]().
+You can access the deployed version of Memory Game [here](https://memory-game-tennoandros.netlify.app/).
 
 ## How to Play
 
